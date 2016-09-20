@@ -1,15 +1,15 @@
-### TSA Search Simulator
+# TSA Search Simulator
 
 
 ## To Run the Simulator
 Clone or download the CS284 repository and change your working directory to 'Final Project'
 (I have already provided you with a sample input.dat file which you can use)
 
-# Compile Everything
+### Compile Everything
 ```sh
 $ javac *.java
 ```
-# Run Simulator
+### Run Simulator
 ```sh
 $ java Simulator
 ```
